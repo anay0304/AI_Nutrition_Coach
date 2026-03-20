@@ -1,0 +1,26 @@
+{
+  "name": "ai_nutrition_coach",
+  "version": "1.0.0",
+  "description": "AI nutrition coaching platform that uses structured coaching frameworks and behavior-change principles to guide users through intake and check-in sessions with personalized action steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anay0304/AI_Nutrition_Coach.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/anay0304/AI_Nutrition_Coach/issues"
+  },
+  "homepage": "https://github.com/anay0304/AI_Nutrition_Coach#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "openai": "^6.32.0"
+  }
+
+}
