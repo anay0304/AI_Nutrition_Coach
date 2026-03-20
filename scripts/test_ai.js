@@ -3,7 +3,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const openai = new OpenAI({
-  apiKey: "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",
+  apiKey: process.env.OPENAI_API_KEY,
 });
 
 const systemPrompt = `
